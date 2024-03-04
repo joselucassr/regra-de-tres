@@ -1,0 +1,26 @@
+{
+	"name": "Regra de 3",
+	"short_name": "Regra de 3",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#e8e8e8",
+	"theme_color": "#020817",
+	"description": "Regra de 3 com possibilidade de salvar operações",
+	"icons": [
+		{
+			"src": "pwa-64x64.png",
+			"type": "image/png",
+			"sizes": "64x64"
+		},
+		{
+			"src": "pwa-192x192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "pwa-512x512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	]
+}
